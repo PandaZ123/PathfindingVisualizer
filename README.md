@@ -6,4 +6,4 @@ Simple pathfinding visualizer where you can choose the starting position and end
 There are many walls scattered around the grid and you are able to randomize where the walls are positioned by clicking the randomize button on the settings menu at the start of the program. 
 <br />
 <br />
-Note: there are some bugs that have not been fixed while the user interface is not fully optimized. 
+
